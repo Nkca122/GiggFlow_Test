@@ -18,7 +18,7 @@ export default function FeatureCard({
   description: string;
 }) {
   return (
-    <Card className="bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 hover:border-green-600 dark:hover:border-green-500 transition-all duration-300 shadow-sm hover:shadow-md rounded-lg overflow-hidden">
+    <Card className="bg-transparent border border-gray-100 dark:border-gray-700 hover:border-green-600 dark:hover:border-green-500 transition-all duration-300 shadow-sm hover:shadow-md rounded-lg overflow-hidden">
       <CardContent className="pt-6 flex justify-center">
         <div className="p-3 bg-green-50 dark:bg-green-900/30 rounded-full">
           <Image
