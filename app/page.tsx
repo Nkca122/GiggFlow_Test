@@ -28,7 +28,7 @@ export default function Home() {
               <p className="md:inline-block hidden">{"."}</p> cost-effective
               talent from Gigfloww
             </h2>
-            <Button className="md:absolute md:bottom-4 md:[left:calc(50%_-_16px)] animate-bounce w-8 h-8 md:z-50 mt-4 md:mt-0">
+            <Button className="md:absolute md:bottom-28 md:[left:calc(50%_-_16px)] animate-bounce w-8 h-8 md:z-50 mt-4 md:mt-0">
               <ArrowDown />
             </Button>
           </div>
